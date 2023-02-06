@@ -5,7 +5,7 @@ public class Main {
         var paper = 763789;
         var friend = 19;
 
-        System.out.println(dog+" Задача 1");
+        System.out.println(dog+" Задача 1 ");
         System.out.println(cat+" Задача 1");
         System.out.println(paper+" Задача 1");
 
